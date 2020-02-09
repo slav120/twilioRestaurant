@@ -1,4 +1,25 @@
-Twilio Restaurant / Slav's Kitchen 
+## Project
+
+TwilioRestaurant (Slav's Kitchen) is a food ordering multipage web app that allows you to select the items you would like to order, go to the checkout in order order to fill up your information sheet. Receiving a text confirmation of your order using Twilio API. The owner of the restaurant will receive a text message of your order, to wich he will reply the amount of time it will take for it to be ready, for which the client will receive a text message response. 
+
+## Pictures 
+
+![menu](/images/menu.png)
+![checkout](/images/checkout.png)
+![post_checkout](/images/post_checkout.png)
+![owners](/images/owners.png)
+LHL Node Skeleton
+=========
+
+## Project Setup
+
+The following steps are only for _one_ of the group members to perform.
+
+1. Create your own copy of this repo using the `Use This Template` button, ideally using the name of your project. The repo should be marked Public
+2. Verify that the skeleton code now shows up in your repo on GitHub, you should be automatically redirected
+3. Clone your copy of the repo to your dev machine
+4. Add your team members as collaborators to the project so that they can push to this repo
+5. Let your team members know the repo URL so that they use the same repo (they should _not_ create a copy/fork of this repo since that will add additional workflow complexity to the project)
 
 
 ## Getting Started
